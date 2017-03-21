@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Insert"
+        android:id="@+id/mInsert"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:title="Delete"
+        android:id="@+id/mDelete"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:title="Update"
+        android:id="@+id/mUpdate"
+        app:showAsAction="ifRoom"
+        />
+
+
+</menu>
